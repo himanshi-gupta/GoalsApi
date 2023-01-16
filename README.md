@@ -2,7 +2,7 @@
 App to track your Goals in a better way
 
 ## Screenshots
----
+
 ### HomePage
 ![Homepage](screenshots/Homepage.png)
 ### Register
